@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @arjunlamba777
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me out on arjunlamba777@gmail.com 
 
 <!---
 arjunlamba777/arjunlamba777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
